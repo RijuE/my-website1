@@ -12,6 +12,12 @@ img{
 }
 body{
 	font-size: 10px; 
+	@media (max-width: 576px){
+		font-size: 9px;
+	}
+	@media (max-width: 319px){
+		font-size: 8px;
+	}
 }
 #er_wrap{
 	padding: 0px;
@@ -100,7 +106,7 @@ body{
 		}
 		@media (max-width: 1366px){
 			.container{
-				min-width: 87%;
+				max-width: 87%;
 			}
 		}
 	}
@@ -177,6 +183,9 @@ body{
 			}
 			img{
 				width: 100%;
+			}
+			@media (max-width: 319px){
+				padding: 2em;
 			}
 		}
 	}
