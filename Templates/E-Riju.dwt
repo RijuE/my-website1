@@ -10,7 +10,7 @@
 <meta name="author" content="E Riju">
 <!-- Bootstrap -->
 <link href="../css/bootstrap-4.4.1.css" rel="stylesheet">
-<link href="../css/eriju-stylesheet.css" rel="stylesheet">
+<link href="../css/eriju-stylesheet.css?v=2" rel="stylesheet">
 <!-- TemplateBeginEditable name="head" -->
 <!-- TemplateEndEditable -->
 </head>
