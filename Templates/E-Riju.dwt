@@ -19,7 +19,7 @@
 <meta name="author" content="E Riju">
 <!-- Bootstrap -->
 <link href="../css/bootstrap-4.4.1.css" rel="stylesheet">
-<link href="../css/eriju-stylesheet.css?v=2" rel="stylesheet">
+<link href="../css/eriju-stylesheet.css?v=3" rel="stylesheet">
 <!-- TemplateBeginEditable name="head" -->
 <!-- TemplateEndEditable -->
 </head>
@@ -27,7 +27,7 @@
 <script src="../js/jquery-3.4.1.min.js"></script>
 <div id="er_wrap">
   <header>
-    <nav class="navbar"> <a class="navbar-brand" href="../index.html">E Riju</a>
+    <nav class="navbar"> <a class="navbar-brand" href="../index.html">E Riju Online School</a>
       <button class="navbar-toggler collapsed" type="button" data-toggle="collapse" data-target="#er_navbar" aria-controls="er_navbar" aria-expanded="false" aria-label="Toggle navigation"> <span class="navbar-toggler-icon">
       <svg viewBox="0 0 24 24" fill="currentColor" width="40px" height="40px" class="ope">
         <path d="M19 8H5a1 1 0 1 1 0-2h14a1 1 0 0 1 0 2zm0 5.097H5a1 1 0 1 1 0-2h14a1 1 0 1 1 0 2zm0 5.25H5a1 1 0 1 1 0-2h14a1 1 0 1 1 0 2z"></path>

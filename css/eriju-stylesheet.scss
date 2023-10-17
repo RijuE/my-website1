@@ -29,6 +29,7 @@ body{
 	}
 	.navbar{
 		flex-direction: row-reverse;
+		justify-content: flex-end;
 		.navbar-brand{
 			font-family: 'Playfair Display', serif;
 			font-size: 300%;
@@ -40,6 +41,8 @@ body{
 			display: block;
 			margin: auto;
 			border: 1px solid #151515;
+			white-space: normal;
+			text-align: center;
 		}
 		.navbar-toggler{
 			outline: none;
