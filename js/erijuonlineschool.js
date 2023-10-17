@@ -1,5 +1,6 @@
 // E Riju Online School JavaScript Document
 $(function () {
+  $("#er_wrap").addClass("fadein");
   var path = window.location.pathname;
   var page = path.split("/").pop();
   //console.log( page );

@@ -12,6 +12,7 @@ img{
 }
 body{
 	font-size: 10px; 
+	overflow-y: scroll;
 	@media (max-width: 576px){
 		font-size: 9px;
 	}
@@ -23,6 +24,11 @@ body{
 	padding: 0px;
 	margin: 0px;
 	overflow: hidden;
+	opacity: 0;
+	&.fadein{
+		opacity: 1;
+		transition: 1s opacity linear;
+	}
 	header{
 		display: block;
 		padding: 25px 0px;
